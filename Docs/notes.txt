@@ -1,9 +1,0 @@
-Project Notes:
-
-- The design will follow a simple and clean layout.
-- The primary color theme will be the IEEE WIE purple (#7a2ba0).
-- Future improvements may include:
-  • Event page
-  • Photo gallery
-  • Join Us/Registration page
-- Website should remain easy to read and mobile-friendly.
