@@ -1,0 +1,21 @@
+Website Content Plan
+
+1. About Section:
+The IEEE Women in Engineering (WIE) group is a global community that supports women engineers and scientists. 
+The aim is to promote leadership, innovation, and participation of women in STEM fields.
+
+2. Mission Section:
+- To empower women in engineering and technology.
+- To organize technical events, workshops, and talks.
+- To inspire young women to pursue careers in STEM.
+- To build a supportive network for women professionals and students.
+
+3. Team Section:
+Chair: [Name]
+Vice Chair: [Name]
+Coordinator: [Name]
+(Note: Replace the placeholders with actual names once available.)
+
+4. Contact Section:
+Email: [Your official email]
+Social Media (optional): [Instagram/Facebook link]
