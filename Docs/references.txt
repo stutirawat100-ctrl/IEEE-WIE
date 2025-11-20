@@ -1,0 +1,16 @@
+Reference Information:
+
+Color Theme:
+Primary Purple: #7a2ba0
+Light Purple: #f4e2ff
+Text Color: #333333
+Background Color: #ffffff
+
+Font:
+Arial (default system font)
+
+Image Source:
+Designs folder (add images later if needed)
+
+Note:
+This project uses only basic HTML, CSS, and minimal JavaScript to keep the structure simple and beginner-friendly.
